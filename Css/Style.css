@@ -1,0 +1,10 @@
+@import url("Components/Navbar.css");
+@import url("Components/card.css");
+@import url("Components/footer.css");
+@import url("Layouts/map.css");
+
+body{
+	background-color: WhiteSmoke;
+}
+
+
